@@ -1,0 +1,24 @@
+E:\RQS_CSD_HND\Semester 3\AD\Coffee_Shop\Coffee_Shop\bin\Debug\Coffee_Shop.exe.config
+E:\RQS_CSD_HND\Semester 3\AD\Coffee_Shop\Coffee_Shop\bin\Debug\Coffee_Shop.exe
+E:\RQS_CSD_HND\Semester 3\AD\Coffee_Shop\Coffee_Shop\bin\Debug\Coffee_Shop.pdb
+E:\RQS_CSD_HND\Semester 3\AD\Coffee_Shop\Coffee_Shop\obj\Debug\Coffee_Shop.csprojResolveAssemblyReference.cache
+E:\RQS_CSD_HND\Semester 3\AD\Coffee_Shop\Coffee_Shop\obj\Debug\Coffee_Shop.Form1.resources
+E:\RQS_CSD_HND\Semester 3\AD\Coffee_Shop\Coffee_Shop\obj\Debug\Coffee_Shop.Properties.Resources.resources
+E:\RQS_CSD_HND\Semester 3\AD\Coffee_Shop\Coffee_Shop\obj\Debug\Coffee_Shop.csproj.GenerateResource.Cache
+E:\RQS_CSD_HND\Semester 3\AD\Coffee_Shop\Coffee_Shop\obj\Debug\Coffee_Shop.exe
+E:\RQS_CSD_HND\Semester 3\AD\Coffee_Shop\Coffee_Shop\obj\Debug\Coffee_Shop.pdb
+E:\RQS_CSD_HND\Semester 3\AD\Coffee_Shop\Coffee_Shop\obj\Debug\Coffee_Shop.Customer.resources
+E:\RQS_CSD_HND\Semester 3\AD\Coffee_Shop\Coffee_Shop\obj\Debug\Coffee_Shop.delivery.resources
+E:\RQS_CSD_HND\Semester 3\AD\Coffee_Shop\Coffee_Shop\obj\Debug\Coffee_Shop.DinnerPack.resources
+E:\RQS_CSD_HND\Semester 3\AD\Coffee_Shop\Coffee_Shop\obj\Debug\Coffee_Shop.CommonPoss.resources
+E:\RQS_CSD_HND\Semester 3\AD\Coffee_Shop\Coffee_Shop\obj\Debug\Coffee_Shop.LunchPack.resources
+E:\RQS_CSD_HND\Semester 3\AD\Coffee_Shop\Coffee_Shop\obj\Debug\Coffee_Shop.main.resources
+E:\RQS_CSD_HND\Semester 3\AD\Coffee_Shop\Coffee_Shop\obj\Debug\Coffee_Shop.MrngPack.resources
+E:\RQS_CSD_HND\Semester 3\AD\Coffee_Shop\Coffee_Shop\obj\Debug\Coffee_Shop.IncomeStatement.resources
+E:\RQS_CSD_HND\Semester 3\AD\Coffee_Shop\Coffee_Shop\obj\Debug\Coffee_Shop.NetProfit.resources
+E:\RQS_CSD_HND\Semester 3\AD\Coffee_Shop\Coffee_Shop\obj\Debug\Coffee_Shop.branch.resources
+E:\RQS_CSD_HND\Semester 3\AD\Coffee_Shop\Coffee_Shop\obj\Debug\Coffee_Shop.GrossProfit.resources
+E:\RQS_CSD_HND\Semester 3\AD\Coffee_Shop\Coffee_Shop\obj\Debug\Coffee_Shop.pos.resources
+E:\RQS_CSD_HND\Semester 3\AD\Coffee_Shop\Coffee_Shop\obj\Debug\Coffee_Shop.Inventory.resources
+E:\RQS_CSD_HND\Semester 3\AD\Coffee_Shop\Coffee_Shop\obj\Debug\Coffee_Shop.Login.resources
+E:\RQS_CSD_HND\Semester 3\Application Development\Coffee_Shop(Desktop App)\Coffee_Shop\bin\Debug\Coffee_Shop.exe.config
